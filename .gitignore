@@ -1,0 +1,67 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+*.whl
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Django specific files
+*.log
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+*.pot
+*.pyc
+
+# MySQL specific files
+*.sql
+
+# Flask specific files
+instance/
+.webassets-cache
+
+# Sublime Text specific files
+*.sublime-workspace
+*.sublime-project
+*.sublime-settings
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other files to ignore
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.out
+*.class
+*.jar
+*.war
+*.log
+
+# Environment variable files
+.env
+*.env
